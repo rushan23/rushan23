@@ -4,7 +4,7 @@
 - 📫 How to reach me -rushansaiyed23@gmail.com
 ### Hi there 👋
 ### My name is Ruman Saiyed
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruman2304&layout=compact)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushan23&layout=compact)
 
 ### Languages
 -------------------------------
