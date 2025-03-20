@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Rushan Saiyed
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushan23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushan23&layout=compact)
 
 ### Languages
 -------------------------------
