@@ -3,7 +3,7 @@
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushan23&layout=compact)
 ### Languages
 -------------------------------
-[![My Skills](https://skillicons.dev/icons?i=js,go,docker,gcp,git,unity,wordpress,firebase,php,python,java,javascript,mysql,vscode,cs,cpp,c,elixir)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,docker,gcp,git,unity,wordpress,firebase,php,python,java,javascript,mysql,vscode,cs,cpp,c,elixir,dbt,looker)](https://skillicons.dev)
 ## :link: Links
 --------------
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rushan9.wordpress.com/)
